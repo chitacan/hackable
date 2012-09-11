@@ -32,7 +32,7 @@
 * svn-blamed를 많이 당하거나, 프로젝트를 자주 지연시키는 엔지니어는 해고됨
 
 ## Hipster
-[http://www.looah.com/article/view/462](http://www.looah.com/article/view/462)
+[http://www.hipster.com/](http://www.hipster.com/)
 
 * 자신이 찍은 사진을 post 카드 형태로 사람들과 공유하는 서비스
 * 인스타그램의 필터, 공유기능과 핀터레스트의 UI를 적절하게 버무린 듯한 서비스
