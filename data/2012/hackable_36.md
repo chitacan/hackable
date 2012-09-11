@@ -14,7 +14,7 @@
 * `Tag frequency trends (do-it-yourself queries)` 를 선택하면 `Tag` 별 트렌트를 확인 가능
 * 또한 [java와 c++ 트렌드 비교](http://hewgill.com/~greg/stackoverflow/stack_overflow/tags/?java+c%2B%2B) 와 같이 2개 이상의 태그의 트렌드를 비교 가능
 
-# Secure Shell
+## Secure Shell
 [https://chrome.google.com/webstore/detail/pnhechapfaindjhompbnflcldabbghjo?utm_source=chrome-ntp-icon](https://chrome.google.com/webstore/detail/pnhechapfaindjhompbnflcldabbghjo?utm_source=chrome-ntp-icon)
 
 * 크롬 브라우저 탭을 ssh client로 활용할 수 있는 크롬 확장 기능. 구글에서 개발
