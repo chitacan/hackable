@@ -16,3 +16,10 @@
 [https://zapier.com/](https://zapier.com/)
 
 * [출처](https://plus.google.com/u/0/+xguru/posts/imghmZztevW)
+
+## 마크 주커버그의 2가지 실수
+
+[http://techit.co.kr/10299](http://techit.co.kr/10299)
+
+* facebook 모바일 버전의 경우 html5에 큰 베팅?
+* [비판글](http://blog.creation.net/531)
