@@ -1,6 +1,6 @@
 # Hackable todo
 
-다음 hackable에 반영될 item들.
+다음 hackable에 반영될 item들. 반영된 item들은 삭제됨.
 
 ## github play
 [https://github.com/play/play](https://github.com/play/play)
