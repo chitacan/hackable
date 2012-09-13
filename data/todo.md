@@ -31,3 +31,12 @@
 * github와 stackoverflow를 기준으로 한 조사라 오픈소스 프로젝트가 많은 js가 1위를 한듯
 * 실제 현업에서는 어떨지 궁금함
 * Ruby가 c 형제들 (C#, C++, C) 보다 순위가 높다!!!
+
+## MNA
+
+[http://www.notifymyandroid.com/](http://www.notifymyandroid.com/)
+
+* 안드로이드 단말에 push notification을 보낼 수 있는 인터넷 서비스
+* 단말에 앱을 하나 설치해야 하는 듯
+* trial의 경우 후로 5개, 유료로(안드로이드 앱에서 결제) 사용하면 무제한으로 notification을 보낼 수 있음
+* 
