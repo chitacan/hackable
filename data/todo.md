@@ -23,3 +23,11 @@
 
 * facebook 모바일 버전의 경우 html5에 큰 베팅?
 * [비판글](http://blog.creation.net/531)
+
+## 자바 스크립트, 인기 프로그래밍 언어 랭킹 1위
+
+[http://techit.co.kr/10392](http://techit.co.kr/10392)
+
+* github와 stackoverflow를 기준으로 한 조사라 오픈소스 프로젝트가 많은 js가 1위를 한듯
+* 실제 현업에서는 어떨지 궁금함
+* Ruby가 c 형제들 (C#, C++, C) 보다 순위가 높다!!!
