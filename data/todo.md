@@ -31,3 +31,11 @@
 * github와 stackoverflow를 기준으로 한 조사라 오픈소스 프로젝트가 많은 js가 1위를 한듯
 * 실제 현업에서는 어떨지 궁금함
 * Ruby가 c 형제들 (C#, C++, C) 보다 순위가 높다!!!
+
+## prey project
+
+[http://preyproject.com/](http://preyproject.com/)
+
+* 노트북, 타블렛, 폰을 잃어버렸을 때 웹페이지를 통해 위치를 트래킹 할 수 있는 서비스
+* [github](https://github.com/prey) 소스가 공개되어 있음
+* 윈도우, 맥, 리눅스, 안드로이드, ios 클라이언트 지원
