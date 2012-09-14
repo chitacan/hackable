@@ -39,3 +39,11 @@
 * 노트북, 타블렛, 폰을 잃어버렸을 때 웹페이지를 통해 위치를 트래킹 할 수 있는 서비스
 * [github](https://github.com/prey) 소스가 공개되어 있음
 * 윈도우, 맥, 리눅스, 안드로이드, ios 클라이언트 지원
+
+## MNA
+
+[http://www.notifymyandroid.com/](http://www.notifymyandroid.com/)
+
+* 안드로이드 단말에 push notification을 보낼 수 있는 인터넷 서비스
+* 단말에 앱을 하나 설치해야 하는 듯
+* trial의 경우 후로 5개, 유료로(안드로이드 앱에서 결제) 사용하면 무제한으로 notification을 보낼 수 있음
