@@ -38,3 +38,26 @@
 * mac user 유저에게 유용한 터미널 명령어들 모음
 * say 명령어를 통해 맥에게 입을 달아줄 수 있다. :)
 	* 잘만 응용하면 `build complete` 같은 내용을 담아 빌드가 끝나면 음성으로 알려주는 것도 가능할 듯
+
+## 정규표현식의 lookaround
+
+[http://entireboy.egloos.com/4610814](http://entireboy.egloos.com/4610814)
+
+* 매칭할 내용의 다음, 이전에 또 다른 정규식이 포함되 있는지를 매치할 때 유용하게 사용할 수 있는 RegExr
+* 예를 들어 아래와 같은 2개의 user-agent가 있을 때,
+
+```
+안드로이드 디폴트 브라우저 user-agent
+user-agent : mozilla/5.0 (linux; u; android 4.1.1; ko-kr; nexus s build/jro03e) appliwebkit/534.30(khtml, like gecho) version/4.0 mobile safari/534.30
+```
+
+```
+안드로이드 chrome 브라우저 user-agent
+user-agent : mozilla/5.0 (linux; u; android 4.1.1; ko-kr; nexus s build/jro03e) appliwebkit/534.30(khtml, like gecho) chrome/18.0.1025.166 mobile safari/535.19
+```
+
+* 이 두개의 user-agent를 구분하려면, `android` 단어 이후에 (lookahead) `chrome` 단어를 매치하는 RegExr을 만들면 된다.
+
+```
+android(?=.*chrome)
+```
