@@ -30,3 +30,11 @@
 * 노트북, 타블렛, 폰을 잃어버렸을 때 웹페이지를 통해 위치를 트래킹 할 수 있는 서비스
 * [github](https://github.com/prey) 소스가 공개되어 있음
 * 윈도우, 맥, 리눅스, 안드로이드, ios 클라이언트 지원
+
+## 10 Terminal Commands That Every Mac User Should Know
+
+[http://mac.tutsplus.com/tutorials/terminal/10-terminal-commands-that-every-mac-user-should-know/](http://mac.tutsplus.com/tutorials/terminal/10-terminal-commands-that-every-mac-user-should-know/)
+
+* mac user 유저에게 유용한 터미널 명령어들 모음
+* say 명령어를 통해 맥에게 입을 달아줄 수 있다. :)
+	* 잘만 응용하면 `build complete` 같은 내용을 담아 빌드가 끝나면 음성으로 알려주는 것도 가능할 듯
