@@ -61,3 +61,16 @@ user-agent : mozilla/5.0 (linux; u; android 4.1.1; ko-kr; nexus s build/jro03e) 
 ```
 android(?=.*chrome)
 ```
+
+## Initail version for ACE editor
+
+[http://ace.ajax.org/#nav=about](http://ace.ajax.org/#nav=about)
+
+* javascript 기반의 웹 에디터인 ACE editor의 1.0 버전 공개.
+* [cloud9 IDE](https://c9.io/)의 기본 에디터.
+* 주요 특징
+	* vi, emacs 키 바인딩 지원
+	* 멀티 커서 에디팅
+	* 자바 포함 45개 이상의 언어 syntax highlight 지원
+	* html 기반의 웹 문서에 쉽게 embed 가능
+* 모바일 버전은 아직 미지원
