@@ -82,3 +82,10 @@ android(?=.*chrome)
 	* 자바 포함 45개 이상의 언어 syntax highlight 지원
 	* html 기반의 웹 문서에 쉽게 embed 가능
 * 모바일 버전은 아직 미지원
+
+## 카카오 링크 for android
+
+[https://github.com/kakao/kakaolink-android] (https://github.com/kakao/kakaolink-android)
+
+* 외부 앱, 모바일 웹에서 카카오톡 친구들에게 URL 링크 또는 메시지를 보낼 수 있는 샘플 코드
+* ios, 웹 지원
