@@ -34,10 +34,8 @@
 * [단말에 설치한 앱](https://play.google.com/store/apps/details?id=com.usk.app.notifymyandroid&feature=nav_result#?t=W251bGwsMSwxLDMsImNvbS51c2suYXBwLm5vdGlmeW15YW5kcm9pZCJd)을 통해 실행이 되는 방식이라, 대규모 서비스 보다는 팀이나 소규모 그룹에 서비스 하는 앱에 적합할 듯
 * trial의 경우 후로 5개, 유료로(안드로이드 앱에서 결제 약 $4) 사용하면 무제한으로 notification을 보낼 수 있음
 
-## The UNIX System: Making Computers More Productive
+## Daum Devon 참가신청 시작
 
-[http://37signals.com/svn/posts/3249-the-unix-system-making-computers](http://37signals.com/svn/posts/3249-the-unix-system-making-computers)
+[http://devon.daum.net/2012/](http://devon.daum.net/2012/)
 
-* 1982년 벨 연구소에서 개발한 유닉스 시스템에 대한 소개 동영상
-* 모듈, 파이프, 파일시스템, 쉘의 개념을 소개
-* 저때나 지금이나 컴퓨터 앞에서 씨름하는 사람들의 자세는 똑같은 듯 ㅋ
+* 9/24, [다음](http://dna.daum.net/)의 개발자 컨퍼런스인 `Devon`의 참가신청 시작!!

@@ -2,6 +2,14 @@
 
 다음 hackable에 반영될 item들. 반영된 item들은 삭제됨.
 
+## The UNIX System: Making Computers More Productive
+
+[http://37signals.com/svn/posts/3249-the-unix-system-making-computers](http://37signals.com/svn/posts/3249-the-unix-system-making-computers)
+
+* 1982년 벨 연구소에서 개발한 유닉스 시스템에 대한 소개 동영상
+* 모듈, 파이프, 파일시스템, 쉘의 개념을 소개
+* 저때나 지금이나 컴퓨터 앞에서 씨름하는 사람들의 자세는 똑같은 듯 ㅋ
+
 ## Zapier
 
 [https://zapier.com/](https://zapier.com/)
