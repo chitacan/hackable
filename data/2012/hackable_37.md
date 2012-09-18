@@ -26,7 +26,7 @@
 * 이런 소스를 공개했다는 것도 놀랍지만, 회사에서 직원들을 위해 사용하는 소프트웨어를 직원들이 직접 만들었다는 것이 더 놀라움.
 * [watch this!!](https://vimeo.com/holman/play)
 
-## MNA
+## Nofify My Android
 
 [http://www.notifymyandroid.com/](http://www.notifymyandroid.com/)
 
