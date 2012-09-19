@@ -121,11 +121,12 @@ deview 2012 feature.
 
 * 이번 deview의 목표 세션. 제일 큰 강의장인 c 트랙이 거의 꽉 찰 정도로 많은 분들이 오심
 * 발표자는 웹페이지 몇개 만들기위해 무수한 기술을 배워야 하는 `스프링`, `톰캣`에 대한 대안으로 `node.js`를 소개
-* 실제로 발표에 주제인 [devnote](https://github.com/nforge/devnote)의 경우, 서버 & 클라이언트 코드 뿐만 아니라 테스트 코드, config 파일 심지어는 make 파일까지 자바스크립트로 구현되어 있음
+* 실제로 발표의 주제였던 [devnote](https://github.com/nforge/devnote)의 경우, 서버 & 클라이언트 코드 뿐만 아니라 테스트 코드, config 파일 심지어는 make 파일까지 자바스크립트로 구현되어 있음* 
+
 * `devnote` 개발의 목표
 	* 삽질 비용을 먼저 치루고 그 결과를 공유 / 공개
 	* 우리나라 웹 개발에 `spring`, `jsp` 말고 딴걸 쓰고 싶었다는 ㅋㅋ
-* `devnote`에 사용된 오픈소스 프로젝트들과 결정배경에 대한 소개
+* `devnote`에 사용된 오픈소스 프로젝트들과 결정배경 대한 소개
 * 오픈소스 도입의 단점 극복방법 소개
 	* 비슷한 모듈들을 너무 많은데, 어떻게 결정?
 	* 정확히 원하는 기능이 없을 수 있음
@@ -140,7 +141,7 @@ deview 2012 feature.
 [http://deview.kr/2012/xe/index.php?mid=track&document_srl=389&time_srl=274](http://deview.kr/2012/xe/index.php?mid=track&document_srl=389&time_srl=274)
 
 * [이 세션](http://deview.kr/2012/xe/index.php?mid=track&document_srl=1423742&time_srl=275) 이랑 둘중에 고민을 많이하다 선택했는데 조금 아쉬웠음
-* 실제 사이트의 코드를 보여줄 줄 알았는데, 기본적인 개념들에 대한 설명이 주
+* 실제 사이트의 코드를 보여줄 줄 알았는데, 기본적인 개념들에 대한 설명이 많았음
 * 반응형 웹 구축에 필요한 html 속성과 CSS 문법을 설명
 
 	
