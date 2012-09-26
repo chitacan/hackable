@@ -50,3 +50,32 @@ android(?=.*chrome)
 
 * 외부 앱, 모바일 웹에서 카카오톡 친구들에게 URL 링크 또는 메시지를 보낼 수 있는 샘플 코드
 * ios, 웹 지원
+
+## Android Patterns
+
+[http://www.androidpatterns.com/uap_pattern/list-navigation](http://www.androidpatterns.com/uap_pattern/list-navigation)
+
+* Android 각종 UI 패턴의 장단점 예시들을 제공해 주는 사이트
+* 코드에 대한 설명은 없지만 실제로 많이 사용되는 패턴을 코드로 익혀두는 것도 괜찮을 듯
+
+## MS 때려서 조용히 시키기 특허 출원
+
+[http://techit.co.kr/10637](http://techit.co.kr/10637)
+
+* 뭔가 MS 답지 않은 깨알같은 아이디어??
+
+## Commonsware's github repo
+
+[https://github.com/commonsguy](https://github.com/commonsguy)
+
+* [stackoverflow](http://stackoverflow.com/users/115145/commonsware) 의 `Android` 태그 인기인인 `commonsware`의 github repo
+* `Android`와 관련된 각종 예제들과 여러가지 시도들이 볼만함
+* `Api Demo` 보다 쓸만한 [Busy Coder's Guide To Android Development](https://github.com/commonsguy/cw-android) 가 압권
+
+## Next Version of Android Tools Will Allow User Created Templates
+
+[http://www.androiduipatterns.com/2012/09/next-version-of-android-tools-will.html](http://www.androiduipatterns.com/2012/09/next-version-of-android-tools-will.html)
+
+* 다음 버전의 ADT에는 `User created template`을 추가할 수 있는 기능이 업데이트 될 예정!!
+* 벌써 공개된 [템플릿](https://github.com/jgilfelt/android-adt-templates) !?
+* 이제 테스트나 앱을 만들때 자주 사용하는 패턴을 지정할 수 있게 될듯!!
