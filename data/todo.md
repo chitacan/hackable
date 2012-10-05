@@ -15,21 +15,21 @@
 * 매칭할 내용의 다음, 이전에 또 다른 정규식이 포함되 있는지를 매치할 때 유용하게 사용할 수 있는 RegExr
 * 예를 들어 아래와 같은 2개의 user-agent가 있을 때,
 
-```
+	```
 안드로이드 디폴트 브라우저 user-agent
 user-agent : mozilla/5.0 (linux; u; android 4.1.1; ko-kr; nexus s build/jro03e) appliwebkit/534.30(khtml, like gecho) version/4.0 mobile safari/534.30
-```
+	```
 
-```
+	```
 안드로이드 chrome 브라우저 user-agent
 user-agent : mozilla/5.0 (linux; u; android 4.1.1; ko-kr; nexus s build/jro03e) appliwebkit/534.30(khtml, like gecho) chrome/18.0.1025.166 mobile safari/535.19
-```
+	```
 
 * 이 두개의 user-agent를 구분하려면, `android` 단어 이후에 (lookahead) `chrome` 단어를 매치하는 RegExr을 만들면 된다.
 
-```
+	```
 android(?=.*chrome)
-```
+	```
 
 ## Initail version for ACE editor
 
@@ -95,3 +95,18 @@ http://gist.io/gist_id_number
 	```
 * 블로그를 통해 불특정 다수에게 공개하기는 꺼려지지만 몇몇 사람들과 글을 공유하고자 할 때 좋은 듯.
 * 이놈을 수정해 hackable 뷰어를 만들어 볼 예정
+
+## youtube-dl
+
+[http://katselphrime.wo.tc/2012/09/29/youtube-dl/](http://katselphrime.wo.tc/2012/09/29/youtube-dl/)
+
+* `youtube`, `vimeo` 등의 사이트에서 영상을 다운로드 받을 수 있는 콘솔 어플리케이션
+* `python` 기반이라 윈도우에서도 사용가능
+* 링크기반으로 자동으로 동영상을 다운로드하는 앱을 구현할 수도 있을 듯
+
+## The GitHub hiring experience
+
+[https://github.com/blog/1269-the-github-hiring-experience](https://github.com/blog/1269-the-github-hiring-experience)
+
+* 요즘 가장 geek 한 회사의 geek 한 채용방법
+* 채용하고자 하는 역할에 가장 알맞는 사람을 직접 찾아 컨택
