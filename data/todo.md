@@ -110,3 +110,14 @@ http://gist.io/gist_id_number
 
 * 요즘 가장 geek 한 회사의 geek 한 채용방법
 * 채용하고자 하는 역할에 가장 알맞는 사람을 직접 찾아 컨택
+	* 블로그 포스트, 이메일, 스카이프등을 통해 자기자신의 일에 얼마만큼의 이해도를 가지고 있는지 판단
+	* 기본적으로 자신의 일에 관심이 있는 사람들을 대상으로 하기에, 이력서를 통한 paperwork는 생략
+* 형식적인 인터뷰는 진행하지 않으며, 한번에 2명씩 10 ~ 12명의 사람들과 자유로운 분위기에서 (맥주를 마시거나 당구를 치면서) 회사의 프로세스나 지원자의 이전 일들을 공유
+	* 	지원자로 하여금 회사에서 일하고 싶도록 하는 것이 목적
+* 입사 첫날, [The Setup](https://speakerdeck.com/u/wfarr/p/the-setup-managing-an-army-of-laptops-with-puppet) 이란 프로그램을 통해 개발에 필요한 모든 세팅은 20분만에 완료됨.
+
+## Vimgolf
+
+[http://vimgolf.com/](http://vimgolf.com/)
+
+	
