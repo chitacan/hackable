@@ -128,4 +128,14 @@ http://gist.io/gist_id_number
 
 [https://tutsplus.com/course/improve-workflow-in-sublime-text-2/](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
 
-	
+## deview 2012 다시보기 서비스 오픈
+
+* [deview 2012](http://deview.kr/2012/xe/index.php) 의 세션을 온라인에서 볼 수 있는 서비스 오픈
+* **Track F, G 를 제외한** 나머지 트랙 세선들의 다시보기 가능
+* 추천 세션은 (개인적인 기준 ㅋ)
+	* [루비는 패셔니스타]
+	* [Android Security의 과거와 미래]
+	* [Beyond Android Binder]
+	* [3G 네트워크에 대한 이야기 +a]
+	* [node.js를 이용한 단일언어 기반 웹 애플리케이션 개발]
+	* [Creating an attractive platform]
