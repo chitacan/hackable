@@ -2,35 +2,6 @@
 
 다음 hackable에 반영될 item들. 반영된 item들은 삭제됨.
 
-## Zapier
-
-[https://zapier.com/](https://zapier.com/)
-
-* [출처](https://plus.google.com/u/0/+xguru/posts/imghmZztevW)
-
-## 정규표현식의 lookaround
-
-[http://entireboy.egloos.com/4610814](http://entireboy.egloos.com/4610814)
-
-* 매칭할 내용의 다음, 이전에 또 다른 정규식이 포함되 있는지를 매치할 때 유용하게 사용할 수 있는 RegExr
-* 예를 들어 아래와 같은 2개의 user-agent가 있을 때,
-
-	```
-안드로이드 디폴트 브라우저 user-agent
-user-agent : mozilla/5.0 (linux; u; android 4.1.1; ko-kr; nexus s build/jro03e) appliwebkit/534.30(khtml, like gecho) version/4.0 mobile safari/534.30
-	```
-
-	```
-안드로이드 chrome 브라우저 user-agent
-user-agent : mozilla/5.0 (linux; u; android 4.1.1; ko-kr; nexus s build/jro03e) appliwebkit/534.30(khtml, like gecho) chrome/18.0.1025.166 mobile safari/535.19
-	```
-
-* 이 두개의 user-agent를 구분하려면, `android` 단어 이후에 (lookahead) `chrome` 단어를 매치하는 RegExr을 만들면 된다.
-
-	```
-android(?=.*chrome)
-	```
-
 ## Initail version for ACE editor
 
 [http://ace.ajax.org/#nav=about](http://ace.ajax.org/#nav=about)
@@ -44,13 +15,6 @@ android(?=.*chrome)
 	* html 기반의 웹 문서에 쉽게 embed 가능
 * 모바일 버전은 아직 미지원
 
-## 카카오 링크 for android
-
-[https://github.com/kakao/kakaolink-android] (https://github.com/kakao/kakaolink-android)
-
-* 외부 앱, 모바일 웹에서 카카오톡 친구들에게 URL 링크 또는 메시지를 보낼 수 있는 샘플 코드
-* ios, 웹 지원
-
 ## Android Patterns
 
 [http://www.androidpatterns.com/uap_pattern/list-navigation](http://www.androidpatterns.com/uap_pattern/list-navigation)
@@ -63,14 +27,6 @@ android(?=.*chrome)
 [http://techit.co.kr/10637](http://techit.co.kr/10637)
 
 * 뭔가 MS 답지 않은 깨알같은 아이디어??
-
-## Commonsware's github repo
-
-[https://github.com/commonsguy](https://github.com/commonsguy)
-
-* [stackoverflow](http://stackoverflow.com/users/115145/commonsware) 의 `Android` 태그 인기인인 `commonsware`의 github repo
-* `Android`와 관련된 각종 예제들과 여러가지 시도들이 볼만함
-* `Api Demo` 보다 쓸만한 [Busy Coder's Guide To Android Development](https://github.com/commonsguy/cw-android) 가 압권
 
 ## Next Version of Android Tools Will Allow User Created Templates
 
@@ -93,6 +49,7 @@ android(?=.*chrome)
 	```
 http://gist.io/gist_id_number
 	```
+	* 예 : regular expression cheat sheet으로 예시 작성
 * 블로그를 통해 불특정 다수에게 공개하기는 꺼려지지만 몇몇 사람들과 글을 공유하고자 할 때 좋은 듯.
 * 이놈을 수정해 hackable 뷰어를 만들어 볼 예정
 
@@ -127,15 +84,3 @@ http://gist.io/gist_id_number
 ## Perfect Workflow in Sublime Text 2
 
 [https://tutsplus.com/course/improve-workflow-in-sublime-text-2/](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
-
-## deview 2012 다시보기 서비스 오픈
-
-* [deview 2012](http://deview.kr/2012/xe/index.php) 의 세션을 온라인에서 볼 수 있는 서비스 오픈
-* **Track F, G 를 제외한** 나머지 트랙 세선들의 다시보기 가능
-* 추천 세션은 (개인적인 기준 ㅋ)
-	* [루비는 패셔니스타]
-	* [Android Security의 과거와 미래]
-	* [Beyond Android Binder]
-	* [3G 네트워크에 대한 이야기 +a]
-	* [node.js를 이용한 단일언어 기반 웹 애플리케이션 개발]
-	* [Creating an attractive platform]
