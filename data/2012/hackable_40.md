@@ -50,6 +50,13 @@ android(?=.+chrome)
 	* `Dropbox`와 `Twitter`를 연결해 특정 새 파일이 올라오면 링크를 트위터로 전송하는 등의 응용이 가능.
 * 우리에게 친숙한 서비스들이 없다는 것이 흠이라면 흠.
 
+## kth H3 페이지 오픈
+
+[http://h3.kthcorp.com/2012/](http://h3.kthcorp.com/2012/)
+
+* kth의 개발자 컨퍼런스인 H3의 페이지 오픈
+* 10/16일 부터 참가신청 시작
+
 ## deview 2012 다시보기 서비스 오픈
 
 * [deview 2012](http://deview.kr/2012/xe/index.php) 의 세션을 온라인에서 볼 수 있는 서비스 오픈
