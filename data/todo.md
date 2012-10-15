@@ -2,7 +2,7 @@
 
 다음 hackable에 반영될 item들. 반영된 item들은 삭제됨.
 
-## Initail version for ACE editor
+## Initial version for ACE editor
 
 [http://ace.ajax.org/#nav=about](http://ace.ajax.org/#nav=about)
 
@@ -84,3 +84,44 @@ http://gist.io/gist_id_number
 ## Perfect Workflow in Sublime Text 2
 
 [https://tutsplus.com/course/improve-workflow-in-sublime-text-2/](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
+
+## Flutter
+
+[https://flutterapp.com/](https://flutterapp.com/)
+
+* 맥북의 카메라를 이용해 사용자의 제스처를 인식하는 앱
+* `itunes`, `VLC player` 등과 연동가능
+* 아직 4가지 정도의 제스쳐를 인식하지만 다양한 제스쳐를 인식하기 시작하면 활용도는 무궁무진할 듯
+
+## os x의 메모 프로그램을 자유자재로 주무르는 5가지 방법
+
+[http://macnews.tistory.com/288](http://macnews.tistory.com/288)
+
+* osx mountain lion의 메모앱을 잘 활용하는 5가지 방법
+* 메모분리, 단축키를 통한 메모생성, 메모의 스크린 캡쳐 기능, 공유 기능등에 대한 설명
+
+## 새로운 시장을 창조한 스타트업 github의 비하인드 스토리
+
+[http://allaboutetp.wordpress.com/2012/03/18/github/](http://allaboutetp.wordpress.com/2012/03/18/github/)
+
+* github에 대한 설명과 창업 비하인드 스토리
+	* github를 창업한 이유와
+	* 독특한 운영스타일에 대한 이야기
+* 전형적인 스타트업 성공의 길
+	* 좋은 시장(모두가 관심없어 하지만 곧 커질 시장)을 선택하여
+	* 극소수의 고객에게 wow 경험을 주는 것으로 시작한다.
+* 같은 블로그에 있는 [Geek의 간지가 넘치는 github 본사방문기](http://allaboutetp.wordpress.com/2012/07/08/github_hq/) 도 재밌음 ㅋ
+
+## Dogit
+
+[http://dogfeet.github.com/dogit/](http://dogfeet.github.com/dogit/)
+
+* git 사용자를 위한 커뮤니티 인덱스 페이지
+
+## 오픈소스 클라우드 IDE 프로젝트 "구름"
+
+[http://techit.kr/11739](http://techit.kr/11739)
+
+* 웹 기반 IDE [구름](http://goorm.org/) 에 대한 기사
+* [cloud9](https://c9.io/)과 유사한 서비스인 듯.
+* [cloud9](https://c9.io/)는 한국에선 너무 느려서 거의 사용할 수 조차 없었는데, 이 서비스는 어떨지 궁금함
