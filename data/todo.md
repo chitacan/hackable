@@ -108,3 +108,8 @@ http://gist.io/gist_id_number
 * `github`, `dropbox` 등에 저장되어 있는 `php`, `wordpress` 프로젝트를 쉽게 deploy 시켜주는 웹앱
 * 요즘 가끔씩 보이는 서비스를 웹상에서 연결해주는 서비스
 
+## 온라인에서 프로그래밍을 배우는 27가지 방법
+
+[http://thenextweb.com/dd/2012/10/21/so-you-want-to-be-a-programmer-huh-heres-25-ways-to-learn-online/](http://thenextweb.com/dd/2012/10/21/so-you-want-to-be-a-programmer-huh-heres-25-ways-to-learn-online/)
+
+* 온라인에서 프로그래밍을 배울 수 있는 27개의 사이트 소개
