@@ -93,3 +93,4 @@ http://gist.io/gist_id_number
 
 * 웹 기반 IDE [구름](http://goorm.org/) 에 대한 기사
 * [cloud9](https://c9.io/)과 유사한 서비스인 듯.
+* [cloud9](https://c9.io/)는 한국에선 너무 느려서 거의 사용할 수 조차 없었는데, 이 서비스는 어떨지 궁금함
