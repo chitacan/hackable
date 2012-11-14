@@ -121,3 +121,11 @@ http://gist.io/gist_id_number
 * `iTerm2` 에서 유용함
 * 멋진 놈이긴 한데 버그가 있음
 	*  `cd` 명령어를 통해 이동하는 디렉토리 이름에 space가 있을 경우, `cd` 가 제대로 동작하지 않음
+	
+## Spot
+
+[https://github.com/guille/spot](https://github.com/guille/spot)
+
+* `find` 와 `grep` 명령어가 합쳐진 커맨드라인 툴
+* 전달된 디렉토리에서 특정 키워드가 포함된 파일들과 위치를 출력한다.
+
