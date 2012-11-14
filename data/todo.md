@@ -52,6 +52,7 @@ http://gist.io/gist_id_number
 	* 예 : regular expression cheat sheet으로 예시 작성
 * 블로그를 통해 불특정 다수에게 공개하기는 꺼려지지만 몇몇 사람들과 글을 공유하고자 할 때 좋은 듯.
 * 이놈을 수정해 hackable 뷰어를 만들어 볼 예정
+* 한글 지원되지만 markdown에 table이 잘 보여지지 않음
 
 ## Vimgolf
 
