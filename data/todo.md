@@ -113,3 +113,11 @@ http://gist.io/gist_id_number
 [http://thenextweb.com/dd/2012/10/21/so-you-want-to-be-a-programmer-huh-heres-25-ways-to-learn-online/](http://thenextweb.com/dd/2012/10/21/so-you-want-to-be-a-programmer-huh-heres-25-ways-to-learn-online/)
 
 * 온라인에서 프로그래밍을 배울 수 있는 27개의 사이트 소개
+
+## 터미널의 탭에 현재 디렉토리 명 표시하기
+
+[http://blog.outsider.ne.kr/854](http://blog.outsider.ne.kr/854)
+
+* `iTerm2` 에서 유용함
+* 멋진 놈이긴 한데 버그가 있음
+	*  `cd` 명령어를 통해 이동하는 디렉토리 이름에 space가 있을 경우, `cd` 가 제대로 동작하지 않음
