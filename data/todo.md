@@ -100,3 +100,11 @@ http://gist.io/gist_id_number
 [https://github.com/rigoneri/syte](https://github.com/rigoneri/syte)
 
 * `tumbler`, `twitter`, `github` 등의 소셜 사이트들을 한곳에 모아 보여줄 수 있는 템플릿
+
+## Deploy
+
+[http://deploybutton.com/](http://deploybutton.com/)
+
+* `github`, `dropbox` 등에 저장되어 있는 `php`, `wordpress` 프로젝트를 쉽게 deploy 시켜주는 웹앱
+* 요즘 가끔씩 보이는 서비스를 웹상에서 연결해주는 서비스
+
